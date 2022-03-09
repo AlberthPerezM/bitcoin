@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Bitcoin -Copia Alberth
 =====================================
 
 https://bitcoincore.org
