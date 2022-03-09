@@ -1,4 +1,4 @@
-Bitcoin -Copia Alberth
+Bitcoin -Copia Alberth-Peru
 =====================================
 
 https://bitcoincore.org
